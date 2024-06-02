@@ -1,0 +1,1 @@
+1. Get total spent money during the voyage.(RoomService, FoodCourt, ShoppingMall, Spa, VRDeck)
