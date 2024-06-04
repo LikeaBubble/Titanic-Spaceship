@@ -1,1 +1,1 @@
-![Screenshot 2024-06-03 133409](https://github.com/LikeaBubble/Titanic-Spaceship/assets/171495425/15e68269-f337-4778-88a0-0e8844897f7b)
+![Screenshot 2024-06-04 210315](https://github.com/LikeaBubble/Titanic-Spaceship/assets/171495425/6d5fe73f-5f62-4f93-a3d6-ffc8e5694857)
